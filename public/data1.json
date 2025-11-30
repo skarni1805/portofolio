@@ -321,35 +321,31 @@
          ]
     },
   {
-   "company": "Accenture, Hyderabad, India",
+   "company": "Capgemini, Hyderabad, India",
       "position": "Software Engineer",
-      "startDate": "April 2015",
-      "endDate": "Jan 2017",
+      "startDate": "April 2012",
+      "endDate": "Mar 2017",
       "desc": [
-    "Performed configuration, deployment, and support of cloud services including Amazon Web Services (AWS)",
-    "Managed servers on the AWS platform using Chef configuration management tools",
-    "Designed project plans for build and release management and automation of CI/CD processes",
-    "Created and maintained multiple build definitions and publish profiles to support automated builds in an Agile/SCRUM environment",
-    "Developed test plans, test scripts, and executed test scripts for Shell ITBM and SAP TMS–DW projects",
-    "Conducted system testing, integration testing, functional testing, and regression testing across various iterations/sprints",
-    "Prepared test plans and testing strategies for Data Warehousing applications",
-    "Developed ETL test scripts based on technical specifications, data design documents, and source-to-target mappings",
-    "Collaborated extensively with developers, business teams, and management to understand OPM project requirements and ETL design specifications",
-    "Participated in regular project status meetings and QA status meetings",
-    "Used and developed SQL scripts/queries for backend database testing",
-    "Created test cases and executed them using Quality Center 9.0 and 11.0 (ALM)",
-    "Reported defects identified in testing environments to developers using HP ALM",
-    "Prepared daily status reports detailing executed, passed, and failed test cases along with defect status",
-    "Tested complex ETL mappings, mapplets, and reusable transformations for daily data loads",
-    "Created test cases for ETL mappings and design documents for production support",
-    "Worked extensively with flat files and Excel sheet data sources",
-    "Effectively communicated testing activities and findings in both oral and written formats",
-    "Worked with ETL groups, acquisition teams, and business analysts to understand mappings for dimensions and facts",
-    "Worked on issues related to migration of data from development to QA/Test environments"
+    "Worked closely with the development team in the design phase and developed use case diagrams",
+    "Worked as an SME for end-to-end software test life cycle for Banking and Insurance domains",
+    "Executed user administration and maintenance tasks including creating users and groups, reports, and queries",
+    "Developed test code in Java using Eclipse IDE",
+    "Developed and executed manual and automated tests, test cases, test plans, and documented defects for banking and insurance models",
+    "Reported issues in JIRA and HP ALM and followed up on bug fixes",
+    "Involved in the entire project life cycle including designing, developing, execution, and documentation of unit test plans, test cases, test procedures, and test scripts",
+    "Developed test cases and documented results after unit-level testing of all process components, including debugging and running traces when necessary",
+    "Created reports using Crystal Reports including bills, daily reports, consumption reports, and monthly reports",
+    "Developed drill-down reports and sub-reports for hierarchical data",
+    "Connected to databases and wrote SQL queries for data retrieval",
+    "Prioritized test cases from high risk to low risk to ensure an effective testing strategy",
+    "Responsible for performing all phases of Quality Assurance software testing during development and before application launch",
+    "Interfaced with developers to resolve technical issues",
+    "Performed bug reporting and tracking using HP ALM"
          ]
     }
 ]
 }
+
 
 
 
