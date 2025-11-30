@@ -26,10 +26,10 @@ const Contact = () => {
             <FaEnvelope className="text-4xl text-red-500 mb-3" />
             <h3 className="font-semibold text-lg">Email</h3>
             <a
-              href="mailto:vinod.darapu11801@gmail.com"
+              href="mailto:karniswati@gmail.com"
               className="text-blue-600 mt-2 break-words text-sm sm:text-base"
             >
-              vinod.darapu11801@gmail.com
+              karniswati@gmail.com
             </a>
           </div>
 
@@ -38,10 +38,10 @@ const Contact = () => {
             <FaPhone className="text-4xl text-green-500 mb-3" />
             <h3 className="font-semibold text-lg">Phone</h3>
             <a
-              href="tel:+15166148919"
+              href="tel:+15165078343"
               className="text-blue-600 mt-2 text-sm sm:text-base"
             >
-              +1 (516) 614-8919
+              +1 (516) 507-8343
             </a>
           </div>
         </div>
@@ -51,3 +51,4 @@ const Contact = () => {
 }
 
 export default Contact
+
