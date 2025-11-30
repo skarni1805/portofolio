@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Swati Karni",
-    "shortDesc": "Sr. Cloud and DevOps Engineer with 12+ years of overall IT experience involving testing, designing, architecting, CI/CD, cloud migration, cloud modernization and disaster recovery with AWS and Azure Cloud.",
+    "shortDesc": "Principal Cloud and DevOps Engineer with 12+ years of overall IT experience involving testing, designing, architecting, CI/CD, cloud migration, cloud modernization and disaster recovery with AWS and Azure Cloud.",
     "titles": [
       "Software Engineer",
       " Principal Cloud Engineer"
@@ -25,7 +25,7 @@
     "aboutImage": "public/68f9ebed-9db3-458f-aa15-b5b6dfc8566c.jpg",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Cloud & DevOps Engineer",
-    "about": "A Cloud and DevOps Engineer with 12+ years of overall IT experience involving testing, designing, architecting, CI/CD, cloud migration, cloud modernization and disaster recovery with AWS and Azure Cloud.",
+    "about": "A  Principal Cloud and DevOps Engineer with 12+ years of overall IT experience involving testing, designing, architecting, CI/CD, cloud migration, cloud modernization and disaster recovery with AWS and Azure Cloud.",
     "callUrl": "",
     "resumeUrl": ""
   },
@@ -350,5 +350,6 @@
     }
 ]
 }
+
 
 
