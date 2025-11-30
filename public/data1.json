@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Vinod Darapu",
-    "shortDesc": "Skilled Cloud and DevOps Engineer with 10+ years of IT experience, in supporting, automating, and optimizing mission critical deployments in AWS and Azure clouds, leveraging configuration management, CI/CD, and DevOps processes.",
+    "name": "Swati Karni",
+    "shortDesc": "Sr. Cloud and DevOps Engineer with 12+ years of overall IT experience involving testing, designing, architecting, CI/CD, cloud migration, cloud modernization and disaster recovery with AWS and Azure Cloud.",
     "titles": [
       "Software Engineer",
-      "Cloud Devops Engineer"
+      " Principal Cloud Engineer"
     ],
-    "heroImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "heroImage": "public/68f9ebed-9db3-458f-aa15-b5b6dfc8566c.jpg",
     "techStackImages": [
       "https://img.icons8.com/color/144/amazon-web-services.png",
       "https://img.icons8.com/color/144/azure-1.png",
@@ -22,10 +22,10 @@
     ]
   },
 "about": {
-    "aboutImage": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg",
+    "aboutImage": "public/68f9ebed-9db3-458f-aa15-b5b6dfc8566c.jpg",
     "aboutImageCaption": "< I build stuff 🚀/>",
     "title": "Cloud & DevOps Engineer",
-    "about": "A Cloud & DevOps Engineer with over 10 years of experience, specializing in designing, automating, and managing enterprise-scale infrastructures across AWS and Azure. Proven expertise in Infrastructure as Code (IaC) with Terraform and Ansible to provision secure, scalable, and cost-optimized cloud environments. Possesses a strong background in CI/CD pipeline engineering using tools like Jenkins, Octopus, and Copado for automated deployments of both modern and legacy applications. Experienced in monitoring with Dynatrace and ELK, and knowledgeable in Windows/Linux server administration, security best practices, and agile methodologies.",
+    "about": "A Cloud and DevOps Engineer with 12+ years of overall IT experience involving testing, designing, architecting, CI/CD, cloud migration, cloud modernization and disaster recovery with AWS and Azure Cloud.",
     "callUrl": "",
     "resumeUrl": ""
   },
@@ -179,53 +179,176 @@
     }
   ],
 "educations": [
-    {
+  {"institute": "University of the Cumberlands",
+      "degree": "Phd in IT",
+      "startDate": "jan 2021",
+      "endDate": "In progress"
+  }, 
+  {
       "institute": "New York Institute of Technology",
       "degree": "Master's in Computer Science",
-      "startDate": "May 2015",
-      "endDate": "May 2017"
+      "startDate": "jan 2017",
+      "endDate": "May 2019"
     },
     {
       "institute": "JNTU University",
       "degree": "Bachelor's in Computer Science Engineering",
-      "startDate": "May 2011",
-      "endDate": "May 2015"
+      "startDate": "june 2007",
+      "endDate": "May 2011"
     }
+  
   ],
 "experiences": [
     {
-      "company": "RUMBLEON",
-      "position": "Devops Engineer",
-      "startDate": "November 2021",
+      "company": "SAIC/Department of Veteran Affairs//HITSS/Department of Veteran Affairs",
+      "position": "Sr Cloud Engineer/SRE",
+      "startDate": "August 2020",
       "endDate": "Present",
       "desc": [
-        "Led cloud migration initiatives using Agile (2-week sprints) and GitHub for collaboration, accelerating delivery cycles and boosting team productivity.",
-        "Collaborated with Enterprise Architecture, Business Partners, Developers, Middleware, Security, and Project Managers to design and implement scalable, highly available, and compliant cloud architectures.",
-        "Designed and deployed ELK stack for enterprise-wide log management and monitoring.",
-        "Built end-to-end CI/CD pipelines in Jenkins, integrating automated testing and deployment workflows, reducing release time from days to hours.",
-        "Applied Infrastructure as Code (IaC) with Terraform to provision AWS and Azure infrastructure, achieving repeatable and cost-optimized deployments.",
-        "Administered and supported Windows Server environments, ensuring reliability of legacy business-critical applications.",
-        "Streamlined DevOps operations by optimizing build/release automation, source code management, and defect/change tracking using JIRA.",
-        "Implemented Copado workflows for Salesforce deployments.",
-        "Automated legacy application deployments on Windows Server/IIS using Octopus Deploy.",
-        "Deployed Dynatrace for performance and log/network monitoring, improving observability.",
-        "Passed all compliance audits by enforcing best security practices."
+    "Using GitHub for source code control",
+    "Using agile methodology with a 2-week scrum for Cloud Migration projects",
+    "Working closely with Enterprise Architect Team to design highly available, resilient, fault-tolerant cloud architectures",
+    "Collaborating with Business Partners, Developers, Middleware team, and Project Managers throughout cloud deployment and migration",
+    "Supporting over 150+ Azure cloud instances",
+    "Automating infrastructure builds using Terraform",
+    "Involved in configuration management using Ansible Tower",
+    "Designing HA, fault-tolerant, cost-effective, and secure cloud architectures",
+    "Implementing new processes and policies for infrastructure builds and participating in audits",
+    "Managing patching on Windows and Linux Virtual Machines using Azure Update Management",
+    "Using Azure calculator to create cost-effective cloud solutions and implementing reserved instances for cost savings",
+    "Integrating Terraform with Ansible to automate end-to-end cloud infrastructure build, configuration, and application deployment",
+    "Creating disaster recovery planning, strategies, and conducting drills for production environments",
+    "Using Azure Site Recovery for regional disaster recovery",
+    "Using Azure tags for billing and cost analysis for each project",
+    "Using Recovery Services Vaults with cross-region replication to maintain application-consistent and crash-consistent backups",
+    "Using Azure Log Analytics for log maintenance",
+    "Using Azure Key Vault for certificates and secrets and writing Terraform scripts to fetch secrets for deployments",
+    "Using Azure Storage Accounts with lifecycle management for DB backup logs and audit logs per business requirements",
+    "Developing recovery templates in Terraform for one-click automated recovery of virtual machines and disks from backups",
+    "Using Azure Policies, Groups, Service Principals, Roles, and Active Directory for access management",
+    "Using Application Gateways for Layer 7 security, SSL termination, X-Forwarding, and WAF features",
+    "Using Automation Runbooks and schedules for backups",
+    "Using VersionOne for scrum management, GitHub for source control, GitHub Kanban for innovation tracking, and ServiceNow for ticketing",
+    "Building Continuous Integration environment using Jenkins and Continuous Delivery environment using Puppet",
+    "Using ANT and Maven for building artifacts from source code",
+    "Implementing automated application deployments and writing deployment and automation scripts",
+    "Performing root cause analysis on instances by unmounting root volumes when developers cannot SSH into them"
       ]
     },
     {
-      "company": "THE PCA GROUP OF COMPANIES",
-      "position": "Cloud and DevOps Engineering",
-      "startDate": "July 2015",
-      "endDate": "November 2021",
+      "company": "Stellar/Verizon, Piscataway, NJ",
+      "position": "Cloud and DevOps Engineer",
+      "startDate": "May 2019",
+      "endDate": "july 2020",
       "desc": [
-        "Designed and deployed highly available, fault-tolerant architectures across AWS and Azure, provisioning networking, compute, IAM, and storage resources using Terraform (IaC).",
-        "Automated infrastructure builds using Terraform + Ansible, enabling consistent and repeatable deployments across multiple environments.",
-        "Supported 100+ Azure instances, optimizing costs with Reserved Instances, tagging for cost analysis, and storage lifecycle management.",
-        "Strengthened security by managing Azure AD, Key Vaults, Service Principles, and RBAC policies, ensuring compliance with organizational standards.",
-        "Administered 300+ Windows and Linux servers in mixed VMware/physical environments, including Active Directory, O365, SCCM patching, clustering, and SQL environments.",
-        "Migrated and modernized legacy workloads to cloud environments, reducing reliance on on-premises data centers.",
-        "Used Agile methodology (Scrum, 2-week sprints) and tools such as JIRA, VersionOne, GitHub, and ServiceNow for sprint planning, tracking, and delivery management."
+    "Experience in configuring Amazon EC2 instances and launching new instances with the same configuration using AMIs (Amazon Machine Images)",
+    "Installing applications on AWS EC2 instances and configuring storage on S3 buckets",
+    "Responsible for administrating DevOps operations including source code control tools, software build tools, deployment tools, and SDLC management tools",
+    "Responsible for managing the source code control process, build process, deployment process, and requirement/defects process",
+    "Managing source code control tools such as GIT and GITLAB",
+    "Administering Jenkins, Artifactory, and application build tools",
+    "Responsible for DevOps environments such as CI/CD and test automation",
+    "Working with implementation teams to build and engineer services for Linux and AIX operating systems",
+    "Working on AWS Cloud to provision new instances, S3 storage services, AWS EC2, CloudWatch services, and CI/CD pipeline management through Jenkins",
+    "Responsible for using AWS Console for deploying and operating AWS services including VPC, EC2, S3, EBS, IAM, ELB, and CloudFormation",
+    "Developed CloudFormation templates to create VPCs, subnets, NAT, EC2 instances, and Security Groups",
+    "Maintained user accounts, IAM Roles, VPC, RDS, DynamoDB, SES, SQS, and SNS services in AWS Cloud",
+    "Migrated and maintained build and test environments in cloud infrastructure",
+    "Developed Terraform scripts to automate EC2 instance provisioning",
+    "Used build tools like ANT and Maven for developing build artifacts from source code",
+    "Modified build configuration files including ANT's build.xml and Maven's pom.xml",
+    "Configured and implemented Jenkins to build CI/CD pipelines",
+    "Configured Jenkins as a common build engine to build and deploy applications to DEV, QA, and PROD environments",
+    "Responsible for design and maintenance of GIT and Stash repositories, views, and access control strategies",
+    "Designed and implemented Continuous Integration systems by configuring Jenkins servers, Jenkins nodes, and required automation scripts (Perl, Python)",
+    "Used Jenkins for continuous integration and deployment into Apache Tomcat Server",
+    "Used Ansible for configuration management of hosted instances within AWS",
+    "Involved in troubleshooting build issues and resolving them",
+    "Used JIRA to track defects and changes related to the build and release team"
       ]
+    },
+  {
+   "company": "Perfume Worldwide INC, NY",
+      "position": "Systems Analyst",
+      "startDate": "May 2019",
+      "endDate": "july 2020",
+      "desc": [
+    "Responsible for design and maintenance of GIT and Stash repositories, views, and access control strategies",
+    "Designed and implemented Continuous Integration (CI) systems by configuring Jenkins servers and Jenkins nodes, and creating required scripts using Perl and Python",
+    "Used Jenkins for continuous integration and deployment into Apache Tomcat Server",
+    "Used Ansible for configuration management of hosted instances within AWS"
+      ]
+    },
+   {
+   "company": "New York Institute of Technology, Old Westbury, New York",
+      "position": "Graduate Assistant",
+      "startDate": "jan 2017",
+      "endDate": "Dec 2018",
+      "desc": [
+     "Assisting the Department of Computer Science with IT graduate student education, labs, and onboarding along with Masters-level academic support",
+    "Involved in research and coding using multiple programming languages such as Java, C++, and Ruby",
+    "Designing software projects, deploying them, and assisting graduate students with project development",
+    "Handling documentation and tracking departmental research and paperwork",
+    "Providing assistantship to the Graduate Advisor, researchers, and professors in planning and executing multiple software projects"
+      ]
+    },
+   {
+   "company": "Accenture, Hyderabad, India",
+      "position": "Software Engineer",
+      "startDate": "April 2015",
+      "endDate": "Jan 2017",
+      "desc": [
+    "Performed configuration, deployment, and support of cloud services including Amazon Web Services (AWS)",
+    "Managed servers on the AWS platform using Chef configuration management tools",
+    "Designed project plans for build and release management and automation of CI/CD processes",
+    "Created and maintained multiple build definitions and publish profiles to support automated builds in an Agile/SCRUM environment",
+    "Developed test plans, test scripts, and executed test scripts for Shell ITBM and SAP TMS–DW projects",
+    "Conducted system testing, integration testing, functional testing, and regression testing across various iterations/sprints",
+    "Prepared test plans and testing strategies for Data Warehousing applications",
+    "Developed ETL test scripts based on technical specifications, data design documents, and source-to-target mappings",
+    "Collaborated extensively with developers, business teams, and management to understand OPM project requirements and ETL design specifications",
+    "Participated in regular project status meetings and QA status meetings",
+    "Used and developed SQL scripts/queries for backend database testing",
+    "Created test cases and executed them using Quality Center 9.0 and 11.0 (ALM)",
+    "Reported defects identified in testing environments to developers using HP ALM",
+    "Prepared daily status reports detailing executed, passed, and failed test cases along with defect status",
+    "Tested complex ETL mappings, mapplets, and reusable transformations for daily data loads",
+    "Created test cases for ETL mappings and design documents for production support",
+    "Worked extensively with flat files and Excel sheet data sources",
+    "Effectively communicated testing activities and findings in both oral and written formats",
+    "Worked with ETL groups, acquisition teams, and business analysts to understand mappings for dimensions and facts",
+    "Worked on issues related to migration of data from development to QA/Test environments"
+         ]
+    },
+  {
+   "company": "Accenture, Hyderabad, India",
+      "position": "Software Engineer",
+      "startDate": "April 2015",
+      "endDate": "Jan 2017",
+      "desc": [
+    "Performed configuration, deployment, and support of cloud services including Amazon Web Services (AWS)",
+    "Managed servers on the AWS platform using Chef configuration management tools",
+    "Designed project plans for build and release management and automation of CI/CD processes",
+    "Created and maintained multiple build definitions and publish profiles to support automated builds in an Agile/SCRUM environment",
+    "Developed test plans, test scripts, and executed test scripts for Shell ITBM and SAP TMS–DW projects",
+    "Conducted system testing, integration testing, functional testing, and regression testing across various iterations/sprints",
+    "Prepared test plans and testing strategies for Data Warehousing applications",
+    "Developed ETL test scripts based on technical specifications, data design documents, and source-to-target mappings",
+    "Collaborated extensively with developers, business teams, and management to understand OPM project requirements and ETL design specifications",
+    "Participated in regular project status meetings and QA status meetings",
+    "Used and developed SQL scripts/queries for backend database testing",
+    "Created test cases and executed them using Quality Center 9.0 and 11.0 (ALM)",
+    "Reported defects identified in testing environments to developers using HP ALM",
+    "Prepared daily status reports detailing executed, passed, and failed test cases along with defect status",
+    "Tested complex ETL mappings, mapplets, and reusable transformations for daily data loads",
+    "Created test cases for ETL mappings and design documents for production support",
+    "Worked extensively with flat files and Excel sheet data sources",
+    "Effectively communicated testing activities and findings in both oral and written formats",
+    "Worked with ETL groups, acquisition teams, and business analysts to understand mappings for dimensions and facts",
+    "Worked on issues related to migration of data from development to QA/Test environments"
+         ]
     }
+  }
   ]
 }
+
