@@ -181,19 +181,19 @@
 "educations": [
   {"institute": "University of the Cumberlands",
       "degree": "Phd in IT",
-      "startDate": "jan 2021",
+      "startDate": "Jan 2021",
       "endDate": "In progress"
   }, 
   {
       "institute": "New York Institute of Technology",
       "degree": "Master's in Computer Science",
-      "startDate": "jan 2017",
+      "startDate": "Jan 2017",
       "endDate": "May 2019"
     },
     {
       "institute": "JNTU University",
       "degree": "Bachelor's in Computer Science Engineering",
-      "startDate": "june 2007",
+      "startDate": "jun 2007",
       "endDate": "May 2011"
     }
   
@@ -202,7 +202,7 @@
   {
     "company": "Capgemini, Hyderabad, India",
     "position": "Software Engineer",
-    "startDate": "April 2012",
+    "startDate": "Apr 2012",
     "endDate": "Mar 2017",
     "desc": [
       "Worked closely with the development team in the design phase and developed use case diagrams",
@@ -225,7 +225,7 @@
   {
     "company": "Accenture, Hyderabad, India",
     "position": "Software Engineer",
-    "startDate": "April 2015",
+    "startDate": "Apr 2015",
     "endDate": "Jan 2017",
     "desc": [
       "Performed configuration, deployment, and support of cloud services including Amazon Web Services (AWS)",
@@ -253,7 +253,7 @@
   {
     "company": "New York Institute of Technology, Old Westbury, New York",
     "position": "Graduate Assistant",
-    "startDate": "jan 2017",
+    "startDate": "Jan 2017",
     "endDate": "Dec 2018",
     "desc": [
       "Assisting the Department of Computer Science with IT graduate student education, labs, and onboarding along with Masters-level academic support",
@@ -266,8 +266,8 @@
   {
     "company": "Perfume Worldwide INC, NY",
     "position": "Systems Analyst",
-    "startDate": "May 2019",
-    "endDate": "july 2020",
+    "startDate": "Jan 2019",
+    "endDate": "Apr 2019",
     "desc": [
       "Responsible for design and maintenance of GIT and Stash repositories, views, and access control strategies",
       "Designed and implemented Continuous Integration (CI) systems by configuring Jenkins servers and Jenkins nodes, and creating required scripts using Perl and Python",
@@ -279,7 +279,7 @@
     "company": "Stellar/Verizon, Piscataway, NJ",
     "position": "Cloud and DevOps Engineer",
     "startDate": "May 2019",
-    "endDate": "july 2020",
+    "endDate": "Jul 2020",
     "desc": [
       "Experience in configuring Amazon EC2 instances and launching new instances with the same configuration using AMIs (Amazon Machine Images)",
       "Installing applications on AWS EC2 instances and configuring storage on S3 buckets",
@@ -308,9 +308,9 @@
     ]
   },
   {
-    "company": "SAIC/Department of Veteran Affairs//HITSS/Department of Veteran Affairs",
+    "company": "SAIC/HITSS/Department of Veteran Affairs",
     "position": "Sr Cloud Engineer/SRE",
-    "startDate": "August 2020",
+    "startDate": "Aug 2020",
     "endDate": "Present",
     "desc": [
       "Using GitHub for source code control",
@@ -345,6 +345,7 @@
   }
 ]
 }
+
 
 
 
