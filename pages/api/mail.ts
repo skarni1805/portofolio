@@ -36,7 +36,7 @@ export default async function handler(
             To: [
               {
                 Email: process.env.MAIL_TO as string,
-                Name: "Vinod Darapu",
+                Name: "Swati Karni",
               },
             ],
             Subject: `${name.toUpperCase()} sent you a message from Portfolio`,
@@ -67,3 +67,4 @@ export default async function handler(
     }
   }
 }
+
